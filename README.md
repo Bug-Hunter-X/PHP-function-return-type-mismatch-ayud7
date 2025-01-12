@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP bug related to function return type mismatch. The `foo` function is declared to return an integer, but in some cases may implicitly return null, leading to unexpected behavior or runtime errors.  The solution illustrates how to explicitly handle potential null returns and ensure type correctness.
